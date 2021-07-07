@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/generador-de-facturas-react/static/css/main.081fdea5.chunk.css",
+    "main.js": "/generador-de-facturas-react/static/js/main.457411cd.chunk.js",
+    "main.js.map": "/generador-de-facturas-react/static/js/main.457411cd.chunk.js.map",
+    "runtime-main.js": "/generador-de-facturas-react/static/js/runtime-main.4d1bb106.js",
+    "runtime-main.js.map": "/generador-de-facturas-react/static/js/runtime-main.4d1bb106.js.map",
+    "static/css/2.0cfad52a.chunk.css": "/generador-de-facturas-react/static/css/2.0cfad52a.chunk.css",
+    "static/js/2.54ca89f9.chunk.js": "/generador-de-facturas-react/static/js/2.54ca89f9.chunk.js",
+    "static/js/2.54ca89f9.chunk.js.map": "/generador-de-facturas-react/static/js/2.54ca89f9.chunk.js.map",
+    "index.html": "/generador-de-facturas-react/index.html",
+    "static/css/2.0cfad52a.chunk.css.map": "/generador-de-facturas-react/static/css/2.0cfad52a.chunk.css.map",
+    "static/css/main.081fdea5.chunk.css.map": "/generador-de-facturas-react/static/css/main.081fdea5.chunk.css.map",
+    "static/js/2.54ca89f9.chunk.js.LICENSE.txt": "/generador-de-facturas-react/static/js/2.54ca89f9.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/generador-de-facturas-react/static/media/download.18bbd42e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d1bb106.js",
+    "static/css/2.0cfad52a.chunk.css",
+    "static/js/2.54ca89f9.chunk.js",
+    "static/css/main.081fdea5.chunk.css",
+    "static/js/main.457411cd.chunk.js"
+  ]
+}
