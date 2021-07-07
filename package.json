@@ -1,5 +1,6 @@
 {
   "name": "generador-de-facturas",
+  "homepage": "https://edsonv.github.io/generador-de-facturas-react/",
   "version": "0.2.1",
   "private": true,
   "dependencies": {
